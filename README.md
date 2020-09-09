@@ -24,6 +24,22 @@ Working on a system of this magnitude creates obvious moral conflict due to the 
 
 ***
 
+### HW3: Reliability
+
+All of the architectural styles that support fault tolerance are diverse. This is so that the errors they may encounter will not be similar. It helps to have each portion of the system developed by different people so that a groupthink issue does not occur. This could be further implemented by requiring different tools and IDEs, different algorithms, and even different languages. To take it a step further one could develop specifications individually and define them in different language as well.
+
+Using N-version programming for a control software such as radiation therapy does not sound like a great idea to me. Perhaps this is an unrealistic method of thinking but I would hope these machines are already designed to be as accurate and cautious as possible. In my eyes taking the time and energy to create something one time while performing it more seriously can result in better results than creating something multiple times in a less serious manner. In other words I feel that as N increases the chance for error may also increase.
+
+If exceptions to not get handled properly, errors in the code will result in the program to halt. In other words any errors may completely shut down any program or website or tool that is being used. This doesn't sound very high availability to me. To prevent this we use exception handling to receive and process any error that my occur, and handle it in the code, so that the rest of the program can continue running, even if this specific piece must be paused or restarted with different inputs.
+
+If for some reason the train manages to reach speeds over the max speed, possibly due to downhill travel, the software must apply the brakes to lower the speed.
+If the train is at accelerating, and it reaches its max speed, the software much take over the throttle and halt any further acceleration.
+If the train is heading down a single path and the light is red, software must bring the train must come to a stop.
+If the train is heading down multiple paths and has the option to follow a path that is red and one that is not, the software must guide the train down the non-red path.
+If the light indicator is not red and the speed is not over the speed limit, the conductor should have control over the trains speed and direction if necessary.
+
+***
+
 ### HW4: Accidents and Failures
 Consider the FBI's Sentinel project. The FBI wanted to make information more readily accessible in order to prevent further attacks such as 9/11. By replacing paper files with digital ones, they could create a virtual case file and perform their jobs more efficiently. The only issue is that such a simple and comprehensible idea is not always an easy technical fix. The series of articles documents the trials and tribulations of the Bureau over a span of almost ten years! Trying to combat the challenges of inefficient budget combined with the misjudged time frame, they seemed to miscalculate on so many levels. In a rapidly growing industry of technology, these delays can sometimes result in completely wasted projects, as things progress, and requirements and technical abilities grow. The FBI managed to make an eventual comeback, celebrating the eventual release of their Sentinel, despite the many bumps encountered along the way. Not to be outdone, however, the up-and-running Sentinel did not go as planned and required many expensive fixes and adjustments. The roller coaster of feelings in the entire tale is quite intriguing. 
 
