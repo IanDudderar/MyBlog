@@ -24,6 +24,15 @@ Working on a system of this magnitude creates obvious moral conflict due to the 
 
 ***
 
+### HW2: Reflections on software engineering practices
+
+As we sift through the various articles and documents revolving software engineering, one thing becomes overwhelmingly clear. There are no shortcuts to be taken or low-effort pay-offs in this field. You cannot make assumptions or expect things to get easier. The only way to ensure that the path laid out ahead of you will be as smooth as possible is to consider every possibility and prepare yourself for success. I loved the example in the Kode Vicious article about the guy frustrated with his management for wanting explanations on his bug fixes. I think his feelings towards the situation were completely normal. Who wants to have to explain every single thing they do? But the written article really reinforces the ideas that in programming you cannot make assumptions and you cannot take things for granted. Things must be perfectly laid out for everyone to understand and in an environment where things are based solely around logic, that logic must be step by step explained. This method of thinking is further branched into the other passages as well. The notion that minor things cannot be overlooked-because it’s the little things that make a difference. In fact, it is explicitly stated to not let small tasks get ahead of you-in this instance referring to merging and testing branches periodically as things continue to develop, instead of waiting until things pile up. No matter how insignificant a task may seem, when allowed to grow in number they can become daunting and confusing and end up taking more time and brainpower than necessary.
+
+These seem like issues that may be encountered by a worker looking to make things easier. The silver bullet article brushes on other areas of computing and electronic development that have been able to make grand leaps in their technology and field of study, many of which allowed for accelerated work environments and learning. This does not appear to be the case with software engineering, and anyone who may we waiting for something of this nature to occur is simply out of luck. While other fields may have been fortunate enough to experience these jumps, software engineers will not, and therefore it is again important to reiterate the necessity to be diligent and patient and on top of things, instead of looking for a quick or easy way out. 
+
+
+***
+
 ### HW3: Chapters 11 & 12
 
 All of the architectural styles that support fault tolerance are diverse. This is so that the errors they may encounter will not be similar. It helps to have each portion of the system developed by different people so that a groupthink issue does not occur. This could be further implemented by requiring different tools and IDEs, different algorithms, and even different languages. To take it a step further one could develop specifications individually and define them in different language as well.
