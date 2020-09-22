@@ -20,7 +20,7 @@ Profession- Persons should not pursue or program software that may be used for m
 Colleagues- Lots of projects are group efforts and you must support and encourage those around you to create a positive work environment.
 Self- One can only improve if they notice their own flaws and practice their craft.
 
-Working on a system of this magnitude creates obvious moral conflict due to the privacy invasion that comes with it. Going further, the development of this type of system can and will lead to the development of further systems which are even more morally incorrect. What the software is being used for may not even be the issue, but one must also consider what the program is capable of being used for. One may argue that the invasion of privacy is necessary to prevent terrorism, and while in a vacuum this could be correct, the posibility of the technology being used for other things besides terrorist prevention is very clear and possible.
+Working on a system of this magnitude creates obvious moral conflict due to the privacy invasion that comes with it. Going further, the development of this type of system can and will lead to the development of further systems which are even more morally incorrect. What the software is being used for may not even be the issue, but one must also consider what the program is capable of being used for. One may argue that the invasion of privacy is necessary to prevent terrorism, and while in a vacuum this could be correct, the possibility of the technology being used for other things besides terrorist prevention is very clear and possible.
 
 ***
 
