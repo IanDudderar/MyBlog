@@ -138,3 +138,9 @@ Three of the most commonly used architectural patterns in real-time systems incl
 
 When incorporating fixed price contracts, the contractor assumes a much greater risk than the client. In the world of software engineering, things are quite often unpredictable, and it can be difficult to accurately assess the coming future. When using fixed price contracts, the price is bid on and set ahead of time and therefore will not change. Should any unsuspecting issues arise, which they frequently will, the contractor does not get to suddenly charge more money to accommodate any losses, as the financials are already agreed upon. Say for instance a developer quits or is fired. The quality production of the software will suffer. Another common occurrence is for the number of resources required to complete a project to be underestimated. This would result in a loss for the contractor, or at least less of a return than originally anticipated. For these reasons and more it is a very important roll for a manager to understand risk management.
 
+***
+
+### HW20: Team Progress II
+
+Our team has managed to finally close out the software aspect of the project, as we move on towards our report and perfecting our presentations. We are very satisfied with the final product we were able to achieve, considering how troubling our start was. As we put together our final thoughts and conclusions, we have realized how far we have come and how much we have learned. We are very excied to close out the project. As far as the final report and the poster are concerned, we do not anticipate these being excruciatingly difficult compared to what we have overcome thus far, as most of us have prior knowledge in the area of scientific reports. Team morale is at an all time high!
+
